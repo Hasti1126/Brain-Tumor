@@ -30,7 +30,7 @@ This project focuses on developing a deep learning model for the detection of br
 
 ## Usage
 
-- Run the `mainTest.py` script to start the brain tumor detection application.
+- Run the `app.py` script to start the brain tumor detection application.
 - Follow the on-screen instructions to input the MRI image file for analysis.
 - View the results of the tumor detection on the console or in a generated report.
 
