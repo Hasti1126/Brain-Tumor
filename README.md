@@ -64,12 +64,5 @@ This project focuses on developing a deep learning model for the detection of br
 - Visualizations of correctly classified and misclassified cases are provided in the `results` folder.
 - Additional details and analysis can be found in the accompanying research paper.
 
-## Contributing
 
-- Contributions to the project are welcome! If you encounter any bugs or have ideas for improvements, please submit an issue or pull request.
-- Follow the project's coding style and guidelines when making contributions.
-
-## License
-
-- This project is licensed under the [MIT License](LICENSE).
 
